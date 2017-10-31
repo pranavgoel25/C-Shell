@@ -1,4 +1,4 @@
-# C-Shell
+# C-Shell for OS
 Implememted a shell with builtin features like pwd,cd,echo. Moreover, you can execute external commands like ls,ssh,ps,exit,etc.
 It gives the process info about a process when its pid is given as an input to the pinfo command.
 Background processes are also supported in this shell.
